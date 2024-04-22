@@ -1,0 +1,18 @@
+LM MAHASISWA@DESKTOP-TOI23FI MINGW64 /c/xampp/htdocs/web engineering/belajar-git-2024 (master)
+$ git config --global user.name "MarwantoRifai"
+
+LM MAHASISWA@DESKTOP-TOI23FI MINGW64 /c/xampp/htdocs/web engineering/belajar-git-2024 (master)
+$ git config --global user.email "mrrifai027@gmail.com"
+
+LM MAHASISWA@DESKTOP-TOI23FI MINGW64 /c/xampp/htdocs/web engineering/belajar-git-2024 (master)
+$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+LM MAHASISWA@DESKTOP-TOI23FI MINGW64 /c/xampp/htdocs/web engineering/belajar-git-2024 (master)
+$ git init
+Reinitialized existing Git repository in C:/xampp/htdocs/web engineering/belajar-git-2024/.git/
+
